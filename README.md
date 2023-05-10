@@ -1,4 +1,4 @@
-# Bulk-Bitcoin-Legacy-Wallet-Generator
+# Bulk Bitcoin Legacy Wallet Generator
 This script generates a user specified number of Bitcoin legacy wallets and saves them to a file named generated.txt. Each wallet includes a private key and a public address.
 
 Requirements
